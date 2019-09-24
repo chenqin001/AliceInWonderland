@@ -1,6 +1,8 @@
 # AliceInWonderland
 A web based digital artwork written in TypeScript 
 
+Feel free to use it to decorate your own website :)
+
 Hosted using Firebase:
 https://aliceinwonderland-609ed.firebaseapp.com/ 
 
