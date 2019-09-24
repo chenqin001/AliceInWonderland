@@ -5,12 +5,12 @@
 		"strict": true,		
 		"noImplicitAny": true,
 		"preserveConstEnums":true,
-		"outDir": "js",
+		"outDir": "public/js",
 		"sourceMap": true,
 		"watch": false
 	},
 	"files": [
-		"src/alice.ts",
-		"src/spaces.ts"
+		"public/src/alice.ts",
+		"public/src/spaces.ts"
 	]
 }
