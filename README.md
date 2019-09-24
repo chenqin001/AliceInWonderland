@@ -1,9 +1,10 @@
 # AliceInWonderland
-A countdown, A to-do-list, and A digital art written in TypeScript 
+A digital art written in TypeScript 
 
 
 https://aliceinwonderland-609ed.firebaseapp.com/ 
 
+<img width="681" alt="屏幕快照 2019-09-24 02 20 54 PM" src="https://user-images.githubusercontent.com/42721682/65539183-ea7dee80-ded6-11e9-93dd-d2816cf6aa5a.png">
 
 To run this project:
 1. install Node(npm) and TypeScript(version 3.5 or later) from https://nodejs.org/en/ and http://www.typescriptlang.org/
