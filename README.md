@@ -1,7 +1,7 @@
 # AliceInWonderland
 A web based digital artwork written in TypeScript 
 
-
+Hosted using Firebase:
 https://aliceinwonderland-609ed.firebaseapp.com/ 
 
 <img width="400" alt="屏幕快照 2019-09-24 02 20 54 PM" src="https://user-images.githubusercontent.com/42721682/65539183-ea7dee80-ded6-11e9-93dd-d2816cf6aa5a.png">
