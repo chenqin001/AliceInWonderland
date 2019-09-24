@@ -47,30 +47,16 @@ hr {
   margin: 0 auto 60px;
   position: absolute;
   float: left;
-  border: 1px solid #CCC;
+  /*border: 1px solid #CCC; */
   opacity: 0.9;
   top: 5%;
   bottom: 5%;
   left: 5%;
-  right: 50%;
-  overflow: visible;
-  transform-style: preserve-3d;
-}
-
-.tool{    
-  margin: 0 auto 60px;
-  position: absolute;
-  float: left;
-  border: 1px solid #CCC;
-  opacity: 0.9;
-  top: 5%;
-  bottom: 5%;
-  left: 45%;
   right: 5%;
   overflow: visible;
   transform-style: preserve-3d;
-
 }
+
 
 .panel {
   width: 192px;

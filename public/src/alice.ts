@@ -138,8 +138,6 @@ let startTime =  performance.now()
 var count=0;
 var camRInc = 0.1;
 var renderAssignment = function(t:number){
-	
-	
 	let dt = (t - startTime) / 1000.0
 	// change focal length
 	if(count>=0 && count<500){
