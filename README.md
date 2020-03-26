@@ -1,5 +1,6 @@
 # AliceInWonderland
-A web based digital artwork written in TypeScript 
+
+A web based digital artwork written in TypeScript, inspired by GT CS3451 
 
 Feel free to use it to decorate your own website :)
 
